@@ -395,11 +395,11 @@ padding: 0 2px;
 		font-size: 15px;
 	}
 	.cnt{
-		display: grid;
+		display: block;
 		height: 200vh;
 		width: 100vh;
 		background: transparent;
-		right:15%;
+		left:25%;
 		
 	}
 	.cnt .bx{
