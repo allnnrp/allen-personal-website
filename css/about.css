@@ -73,6 +73,7 @@
 	margin: 240px auto;
 	background: transparent;
 	bottom: 0%;
+	justify-content:center;
 
 }
 .cnt .bx{
@@ -399,7 +400,7 @@ padding: 0 2px;
 		height: 200vh;
 		width: 100vh;
 		background: transparent;
-		rght:27%;
+		
 		
 	}
 	.cnt .bx{
